@@ -1,5 +1,5 @@
 # PatrolSensor
-1.下载巡线传感器固件。[下载地址](https://github.com/UBTEDU/Patrol_Sensor/releases)
+1.下载灰度传感器固件。[下载地址](https://github.com/UBTEDU/Patrol_Sensor/releases)
 
 2.安装[uKit Explore Blockly](https://github.com/UBTEDU/uKit-Explore-Blockly/releases)
 
