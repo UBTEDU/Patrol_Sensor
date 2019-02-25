@@ -3,7 +3,7 @@
 
 2.安装[uKit Explore Blockly](https://github.com/UBTEDU/uKit-Explore-Blockly/releases)
 
-> 若已安装了uKit Explore Blockly或者Arduino IDE可跳过第一步骤
+> 若已安装了uKit Explore Blockly或者Arduino IDE可跳过第二步骤
 
 3.解压route3.3.zip,找到route3.3.ino并打开
 ![rout3.3.ino文件列表](https://github.com/UBTEDU/Patrol_Sensor/blob/master/photo/1.png)
