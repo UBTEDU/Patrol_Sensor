@@ -12,7 +12,7 @@
 
 5.在arduino IDE的状态栏选择工具->开发板->Arduino Nano。然后选择对应的端口。
 ![arduino IDE操作](https://github.com/UBTEDU/Patrol_Sensor/blob/master/photo/2.png)
-> 注：如果你的Arduino IDE版本在1.8.7以下处理器默认ATmega328p即可，若在1.8.7及以上，处理器请选择ATmega328p(Old Bootloader)
+> 注：如果你的Arduino IDE版本在1.8.6以下处理器默认ATmega328p即可，若在1.8.6及以上，处理器请选择ATmega328p(Old Bootloader)
 
 6.点击按钮上传即可更新固件
 
