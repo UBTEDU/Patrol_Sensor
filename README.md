@@ -15,7 +15,9 @@
 ### 3.解压下载好的固件 routex.x.zip,找到routex.x.ino并打开
 ![rout3.3.ino文件列表](https://github.com/UBTEDU/Patrol_Sensor/blob/master/photo/1.png)
 
-### 4.使用原装数据线将灰度传感器连接入电脑，其他线可能不适用
+### 4.使用原装数据线接入灰度传感器的usb接口，另一端连接入电脑。其他线可能不适用
+> 注：其他microUSB线也可以，但要保证其他microUSB是标准的数据线。而不是的microUSB充电线.
+
 
 ### 5.选择开发板
 * 5.1 开发板：在arduino IDE的状态栏选择工具->开发板->Arduino Nano。
