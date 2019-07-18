@@ -19,10 +19,12 @@
 
 ### 5.选择开发板
 * 5.1 开发板：在arduino IDE的状态栏选择工具->开发板->Arduino Nano。
-![arduino IDE操作](https://github.com/UBTEDU/Patrol_Sensor/blob/master/photo/2.png)
+![开发板选择](https://github.com/UBTEDU/Patrol_Sensor/blob/master/photo/nano-0.png)
 * 5.2 处理器：如果你的Arduino IDE版本在1.8.6以下处理器默认ATmega328p即可，若在1.8.6及以上，处理器请选择ATmega328p(Old Bootloader)
+![处理器选择](https://github.com/UBTEDU/Patrol_Sensor/blob/master/photo/nano-1.png)
 * 5.3 端口：然后选择对应的端口。
-
+![端口选择](https://github.com/UBTEDU/Patrol_Sensor/blob/master/photo/nano-2.png)
+> 注：端口并不一定是COM11。可以在插入的时候看当前是什么端口再选择。
 
 
 ### 6.点击按钮上传即可更新固件
