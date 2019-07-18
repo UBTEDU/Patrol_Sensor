@@ -1,5 +1,9 @@
-# PatrolSensor
-1.下载灰度传感器固件。[下载地址](https://github.com/UBTEDU/Patrol_Sensor/releases)
+# 灰度传感器固件更新说明
+
+1.下载灰度传感器固件。
+[灰度传感器v1.1版本固件下载地址](https://github-production-release-asset-2e65be.s3.amazonaws.com/172451029/ce86f480-91e5-11e9-803f-0f4369326441?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190718T072911Z&X-Amz-Expires=300&X-Amz-Signature=52c39e8893c68cc370ad35321399c983c4454e2dac8579639dbdfc17993318aa&X-Amz-SignedHeaders=host&actor_id=17878081&response-content-disposition=attachment%3B%20filename%3Droute3.4.zip&response-content-type=application%2Foctet-stream)
+
+[灰度传感器v1.0版本固件下载地址](https://github-production-release-asset-2e65be.s3.amazonaws.com/172451029/a578e600-390e-11e9-8ead-9838094eb665?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190718T073009Z&X-Amz-Expires=300&X-Amz-Signature=51134925f359453c2f69a8c43a5f633b0ec7ffc25d6de238a63d7c2278aa274e&X-Amz-SignedHeaders=host&actor_id=17878081&response-content-disposition=attachment%3B%20filename%3Droute3.3.zip&response-content-type=application%2Foctet-stream)
 
 2.安装[uKit Explore Blockly](https://github.com/UBTEDU/uKit-Explore-Blockly/releases)
 
@@ -17,3 +21,6 @@
 6.点击按钮上传即可更新固件
 
 ![arduino IDE上传](https://github.com/UBTEDU/Patrol_Sensor/blob/master/photo/3.png)
+
+
+
